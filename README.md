@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">Jr. Python Developer at Turabit LLC.</h3>
+<h4 align="center">Jr. Python Developer at Turabit LLC.</h4>
 
 ## Smit Patel 💙 💻
 
@@ -25,13 +25,13 @@ I love writing blogs and sharing knowledge.
 - ⚡ Fun fact: Member of Google Developer Students Club
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SMITPATEL2107&label=Profile%20views&color=129e00&style=plastic" alt="smitpatel2107" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SMITPATEL2107&label=Profile%20views&color=129e00&style=plastic" alt="smitpatel2107" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p> -->
 
 
 
